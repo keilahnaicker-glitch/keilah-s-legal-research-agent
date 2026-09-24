@@ -1,0 +1,6 @@
+{
+  "name": "LexSA Research",
+  "description": "Advanced South African legal research agent powered by SAFLII primary authorities, court hierarchy analysis, and zero-hallucination verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
